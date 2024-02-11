@@ -1,12 +1,12 @@
 .card {
   border-radius: 2rem !important;
-  /* padding-left: 2rem !important; */
 }
 .container {
-  max-width: 85vw;
+  max-width: 95vw;
 }
+
 .card-body {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   line-height: 7dvh;
 }
 .card:hover {
@@ -17,7 +17,6 @@
   }
 }
 button {
-  /* background-color: rgb(140, 167, 207) !important; */
   padding: 1.1rem !important;
   border-radius: 3rem !important;
   color: #fff !important;

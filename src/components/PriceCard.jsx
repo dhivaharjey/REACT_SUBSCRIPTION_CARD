@@ -13,8 +13,8 @@ function PriceCard({ data }) {
                   {item.title}
                 </h5>
                 <h1 className="card-price fw-bolder text-center text-dark">
-                  {item.price}
-                  <span className="period">$/month</span>
+                  ${item.price}
+                  <span className="period">/month</span>
                 </h1>
                 <hr />
                 <ul className="fa-ul">
