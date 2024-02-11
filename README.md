@@ -12,7 +12,7 @@
   - Access
   - Etc ...
 
-- `Hover` effect is added to the card (Place the cursor on the card).
-- Button `click` effect is added (Click the button).
+- `Hover` effect is added to the card _(Place the cursor on the card)_.
+- Button `click` effect is added _(Click the button)_.
 
 > Thanks for visiting 😊😊.....
