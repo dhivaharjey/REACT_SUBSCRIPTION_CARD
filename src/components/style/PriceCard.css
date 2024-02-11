@@ -1,0 +1,28 @@
+.card {
+  border-radius: 2rem !important;
+  /* padding-left: 2rem !important; */
+}
+.container {
+  max-width: 85vw;
+}
+.card-body {
+  font-size: 1.4rem;
+  line-height: 7dvh;
+}
+.card:hover {
+  transition: all ease-in-out 200ms;
+  transform: translateY(-2rem);
+  button {
+    background-color: rgb(13, 110, 253) !important;
+  }
+}
+button {
+  /* background-color: rgb(140, 167, 207) !important; */
+  padding: 1.1rem !important;
+  border-radius: 3rem !important;
+  color: #fff !important;
+  background-color: rgb(113, 180, 252) !important;
+}
+button:active {
+  transform: scale(0.9);
+}
